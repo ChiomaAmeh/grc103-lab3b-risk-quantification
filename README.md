@@ -1,6 +1,6 @@
 # Lab 3B: Advanced Cybersecurity Risk Quantification
 
-**Student:** Chioma Ameh | **Registration number:** C11/26/CGRCE/17567 | **Course:** GRC102 | **Date:** 29 October 2026 (WAT)
+**Student:** Chioma Ameh | **Registration number:** C11/26/CGRCE/17567 | **Course:** GRC103 | **Date:** 29 October 2026 (WAT)
 
 An end-to-end quantitative risk assessment for SecureBank Financial's mobile banking platform: exposure (SLE, ARO, ALE), control cost-benefit (ROI and payback), prioritisation, a risk treatment roadmap, and a budget-constrained control selection. Every number comes from live formulas in the workbook.
 
