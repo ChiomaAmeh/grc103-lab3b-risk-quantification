@@ -4,6 +4,7 @@
 
 An end-to-end quantitative risk assessment for SecureBank Financial's mobile banking platform: exposure (SLE, ARO, ALE), control cost-benefit (ROI and payback), prioritisation, a risk treatment roadmap, and a budget-constrained control selection. Every number comes from live formulas in the workbook.
 
+
 ![Executive dashboard](docs/Lab3B_Executive_Dashboard.png)
 
 ## Headline results
