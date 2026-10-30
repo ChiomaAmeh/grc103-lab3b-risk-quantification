@@ -67,12 +67,10 @@ Open the workbook and change any blue input on the `Inputs` sheet: everything re
 - ARO is the exploit probability treated as a yearly rate (the sheet does not say "per year").
 - SLE uses the loss figures given in the sheet; no exposure factor is given, so none is applied.
 - Each control mitigates the finding it is designed for, and its effectiveness applies to that finding only.
-- Priority and heat map thresholds, the $500,000 budget case and the timeline are my own choices and are labelled as assumptions.
+- Priority and heat map thresholds, the $500,000 budget case, and the timeline are my own choices and are labelled as assumptions.
 
 ## Limitations
 
-Loss, probability, cost and effectiveness figures are inputs from the lab sheet and were not independently validated. Results are single estimates, controls are treated as independent, and MFA's 95% effectiveness may be optimistic for stolen authenticated sessions. The report includes a sensitivity test.
+Loss, probability, cost, and effectiveness figures are inputs from the lab sheet and were not independently validated. Results are single estimates, controls are treated as independent, and MFA's 95% effectiveness may be optimistic for stolen authenticated sessions. The report includes a sensitivity test.
 
-## AI-assistance declaration
 
-I used Claude (Anthropic) throughout this lab for explanation of the formulas and steps, checking my work against the lab sheet, building the workbook, charts and dashboard, and drafting the wording of the report. I reviewed the results and spot-checked the key figures in the workbook myself. Full declaration: report Section 12.
