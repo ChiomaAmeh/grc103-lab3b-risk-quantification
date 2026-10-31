@@ -74,4 +74,6 @@ Open the workbook and change any blue input on the `Inputs` sheet: everything re
 
 Loss, probability, cost, and effectiveness figures are inputs from the lab sheet and were not independently validated. Results are single estimates, controls are treated as independent, and MFA's 95% effectiveness may be optimistic for stolen authenticated sessions. The report includes a sensitivity test.
 
+## AI-assistance declaration
 
+I used Claude (Anthropic) in this lab for explanation of the formulas and steps, checking/scrutinising my work against the lab sheet, building the workbook, charts, and dashboard, and drafting the wording of the report. I reviewed the results and spot-checked the key figures in the workbook myself. Full declaration: report Section 12.
